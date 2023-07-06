@@ -9,6 +9,5 @@ public class BensWebsiteController {
 	@GetMapping("/api/test")
 	public String testMessage() {
 		return "Test message!";
-	}
-	
+	}	
 }
