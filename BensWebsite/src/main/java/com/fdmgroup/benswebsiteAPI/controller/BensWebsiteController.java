@@ -1,4 +1,4 @@
-package com.example.benswebsiteAPI.controller;
+package com.fdmgroup.benswebsiteAPI.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

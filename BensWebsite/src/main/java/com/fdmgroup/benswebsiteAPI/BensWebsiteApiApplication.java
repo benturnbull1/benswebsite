@@ -1,4 +1,4 @@
-package com.example.benswebsiteAPI;
+package com.fdmgroup.benswebsiteAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
